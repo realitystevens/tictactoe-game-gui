@@ -1,6 +1,6 @@
 ## Tic-Tac-Toe game
 
-Built using (Python)[https://p)ython.org/] and (Tkinter)[https://docs.python.org/3/library/tkinter.html]. Play the game directly from your device by running the python file.
+Built using [Python](https://python.org/) and [Tkinter](https://docs.python.org/3/library/tkinter.html). Play the game directly from your device by running the python file.
 
 ### Installation
 
