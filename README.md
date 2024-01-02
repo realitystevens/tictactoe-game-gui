@@ -11,5 +11,5 @@ The game uses Tkinter to build its Graphic User Interface. Tkinter is part of th
 Execute the following command on your command line to run the file and play the game
 
 ```sh
-$ python tic_tac_toe.py
+$ python3 tictactoe.py
 ```
